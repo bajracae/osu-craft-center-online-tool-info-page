@@ -20,7 +20,7 @@ Center for both students and employees of the Craft Center. This new tool for th
 are similar to what is used today when registering for Facebook, managing online accounts, or signing up for classes online, right here at OSU. With a couple 
 clicks of a button, students have access to all the creativity they could want from their college campus.
 
-##For More Information:
+## For More Information:
 - Go to our index.md on this GitHub page to see images of our website. This file lays out how our website is displayed for the user and lets you visualize what the
 user would see when going to our website. 
 - You can also go to the "images" folder to look at each individual page of our website up close. 
