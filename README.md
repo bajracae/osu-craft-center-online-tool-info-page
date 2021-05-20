@@ -34,3 +34,6 @@ user would see when going to our website.
  - Manage Members (for admins only)
  - Manage Classes (for admins only)
  - Profile
+
+## Link to GitHub Page:
+[Visit this link](https://bajracae.github.io/osu-craft-center-online-tool-info-page/).
