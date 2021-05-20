@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## OSU Craft Center Online Tool
+
+Welcome to the information page for the OSU Craft Center Online Tool project. 
+
 
 You can use the [editor on GitHub](https://github.com/bajracae/osu-craft-center-online-tool-info-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
