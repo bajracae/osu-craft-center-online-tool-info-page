@@ -51,3 +51,7 @@ Welcome to the information page for the OSU Craft Center Online Tool project. Th
 ### **Manage Classes**
 ### **This page allows Craft Center employees to manage Categories, Courses and Sections.**
 ![Image](images/manage_class_page.JPG)
+
+
+### **Initial Project Video and Demo**
+[![Initial Project Demo Video](images/initial_project_video.JPG)](https://media.oregonstate.edu/media/t/1_7kd65oxz)
