@@ -2,6 +2,8 @@
 
 Welcome to the information page for the OSU Craft Center Online Tool project. The OSU Craft Center Online Tool is a website that allows OSU students to register for membership and classes at the OSU Craft Center without having to physically visit its front desk.
 
+### **Initial Project Video and Demo**
+[![Initial Project Demo Video](images/initial_project_video.JPG)](https://media.oregonstate.edu/media/t/1_7kd65oxz)
 
 
 ---
@@ -53,5 +55,4 @@ Welcome to the information page for the OSU Craft Center Online Tool project. Th
 ![Image](images/manage_class_page.JPG)
 
 
-### **Initial Project Video and Demo**
-[![Initial Project Demo Video](images/initial_project_video.JPG)](https://media.oregonstate.edu/media/t/1_7kd65oxz)
+
