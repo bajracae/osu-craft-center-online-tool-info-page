@@ -1,40 +1,51 @@
-## OSU Craft Center Online Tool
+# OSU Craft Center Online Tool
 
-Welcome to the information page for the OSU Craft Center Online Tool project. 
+Welcome to the information page for the OSU Craft Center Online Tool project.
 
+---
 
-You can use the [editor on GitHub](https://github.com/bajracae/osu-craft-center-online-tool-info-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### **Login**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](images/login_page.jpg)
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### **FAQ**
 
-```markdown
-Syntax highlighted code block
+![Image](images/faq_page.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+### **Membership**
 
-1. Numbered
-2. List
+![Image](images/membership_registration_page.jpg)
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+### **Class Registration**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image](images/class_registration_page.jpg)
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bajracae/osu-craft-center-online-tool-info-page/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### **Your Classes**
 
-### Support or Contact
+![Image](images/your_classes_page.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+
+### **Profile**
+
+![Image](images/your_profile_page.jpg)
+
+---
+
+### **Manage Members**
+
+![Image](images/member_information_page.jpg)
+
+---
+
+### **Manage Classes**
+
+![Image](images/manage_class_page.jpg)
